@@ -11,5 +11,5 @@ public enum eTareas
     Clasificar = 7,
     Fiscalizar = 8,
     Capitalizar = 9,
-    Sarasear = 10,
+    Sarasear = 10
 }
